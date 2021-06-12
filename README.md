@@ -5,6 +5,7 @@ A series of scatter plots was created to showcase the following relationships:
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
 Linear regression on each relationship was graphed. The plots were separated into Northern Hemisphere and Southern Hemisphere:
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude

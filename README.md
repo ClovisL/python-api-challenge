@@ -1,4 +1,4 @@
-# Open the .ipynb files to view their output
+# Open the .ipynb files inside GitHub to view their output
 # WeatherPY
 A Python script is created to visualize the weather of 500+ cities across the world using the OpenWeatherMap API
 

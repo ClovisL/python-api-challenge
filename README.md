@@ -1,5 +1,6 @@
 # WeatherPY
 A Python script is created to visualize the weather of 500+ cities across the world using the OpenWeatherMap API
+
 A series of scatter plots was created to showcase the following relationships:
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
